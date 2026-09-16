@@ -5,9 +5,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/manan-29072007/leetcode-ques/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/manan-29072007/leetcode-ques/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
 | ------- |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/manan-29072007/leetcode-ques/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/manan-29072007/leetcode-ques/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -17,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/manan-29072007/leetcode-ques/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+## Math
+|  |
+| ------- |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/manan-29072007/leetcode-ques/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 <!---LeetCode Topics End-->
