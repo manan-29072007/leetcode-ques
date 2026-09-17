@@ -23,5 +23,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2169-count-operations-to-obtain-zero](https://github.com/manan-29072007/leetcode-ques/tree/master/2169-count-operations-to-obtain-zero) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/manan-29072007/leetcode-ques/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+## Simulation
+|  |
+| ------- |
+| [2169-count-operations-to-obtain-zero](https://github.com/manan-29072007/leetcode-ques/tree/master/2169-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
