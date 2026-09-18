@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/manan-29072007/leetcode-ques/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/manan-29072007/leetcode-ques/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1470-shuffle-the-array](https://github.com/manan-29072007/leetcode-ques/tree/master/1470-shuffle-the-array) |
+| [2733-neither-minimum-nor-maximum](https://github.com/manan-29072007/leetcode-ques/tree/master/2733-neither-minimum-nor-maximum) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/manan-29072007/leetcode-ques/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/manan-29072007/leetcode-ques/tree/master/0209-minimum-size-subarray-sum) |
+## Sorting
+|  |
+| ------- |
+| [2733-neither-minimum-nor-maximum](https://github.com/manan-29072007/leetcode-ques/tree/master/2733-neither-minimum-nor-maximum) |
 <!---LeetCode Topics End-->
