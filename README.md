@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/manan-29072007/leetcode-ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/manan-29072007/leetcode-ques/tree/master/0209-minimum-size-subarray-sum) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/manan-29072007/leetcode-ques/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/manan-29072007/leetcode-ques/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/manan-29072007/leetcode-ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/manan-29072007/leetcode-ques/tree/master/0209-minimum-size-subarray-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/manan-29072007/leetcode-ques/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/manan-29072007/leetcode-ques/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/manan-29072007/leetcode-ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/manan-29072007/leetcode-ques/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
