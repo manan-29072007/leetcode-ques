@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/manan-29072007/leetcode-ques/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manan-29072007/leetcode-ques/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2169-count-operations-to-obtain-zero](https://github.com/manan-29072007/leetcode-ques/tree/master/2169-count-operations-to-obtain-zero) |
+| [2396-strictly-palindromic-number](https://github.com/manan-29072007/leetcode-ques/tree/master/2396-strictly-palindromic-number) |
 | [2651-calculate-delayed-arrival-time](https://github.com/manan-29072007/leetcode-ques/tree/master/2651-calculate-delayed-arrival-time) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/manan-29072007/leetcode-ques/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/manan-29072007/leetcode-ques/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manan-29072007/leetcode-ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2396-strictly-palindromic-number](https://github.com/manan-29072007/leetcode-ques/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/manan-29072007/leetcode-ques/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/manan-29072007/leetcode-ques/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/manan-29072007/leetcode-ques/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
