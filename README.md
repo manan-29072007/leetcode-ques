@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manan-29072007/leetcode-ques/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/manan-29072007/leetcode-ques/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manan-29072007/leetcode-ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/manan-29072007/leetcode-ques/tree/master/0209-minimum-size-subarray-sum) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/manan-29072007/leetcode-ques/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manan-29072007/leetcode-ques/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/manan-29072007/leetcode-ques/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manan-29072007/leetcode-ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2396-strictly-palindromic-number](https://github.com/manan-29072007/leetcode-ques/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/manan-29072007/leetcode-ques/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
