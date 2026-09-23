@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/manan-29072007/leetcode-ques/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1470-shuffle-the-array](https://github.com/manan-29072007/leetcode-ques/tree/master/1470-shuffle-the-array) |
 | [1534-count-good-triplets](https://github.com/manan-29072007/leetcode-ques/tree/master/1534-count-good-triplets) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/manan-29072007/leetcode-ques/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/manan-29072007/leetcode-ques/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/manan-29072007/leetcode-ques/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/manan-29072007/leetcode-ques/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/manan-29072007/leetcode-ques/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3340-check-balanced-string](https://github.com/manan-29072007/leetcode-ques/tree/master/3340-check-balanced-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/manan-29072007/leetcode-ques/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/manan-29072007/leetcode-ques/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/manan-29072007/leetcode-ques/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2169-count-operations-to-obtain-zero](https://github.com/manan-29072007/leetcode-ques/tree/master/2169-count-operations-to-obtain-zero) |
 ## Binary Search
 |  |
