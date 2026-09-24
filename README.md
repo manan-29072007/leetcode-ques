@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/manan-29072007/leetcode-ques/tree/master/1534-count-good-triplets) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manan-29072007/leetcode-ques/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/manan-29072007/leetcode-ques/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/manan-29072007/leetcode-ques/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2733-neither-minimum-nor-maximum](https://github.com/manan-29072007/leetcode-ques/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/manan-29072007/leetcode-ques/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/manan-29072007/leetcode-ques/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manan-29072007/leetcode-ques/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/manan-29072007/leetcode-ques/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-count-operations-to-obtain-zero](https://github.com/manan-29072007/leetcode-ques/tree/master/2169-count-operations-to-obtain-zero) |
 ## Binary Search
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manan-29072007/leetcode-ques/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manan-29072007/leetcode-ques/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manan-29072007/leetcode-ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/manan-29072007/leetcode-ques/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/manan-29072007/leetcode-ques/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/manan-29072007/leetcode-ques/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
