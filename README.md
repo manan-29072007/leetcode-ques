@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/manan-29072007/leetcode-ques/tree/master/2396-strictly-palindromic-number) |
 | [2651-calculate-delayed-arrival-time](https://github.com/manan-29072007/leetcode-ques/tree/master/2651-calculate-delayed-arrival-time) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/manan-29072007/leetcode-ques/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3492-maximum-containers-on-a-ship](https://github.com/manan-29072007/leetcode-ques/tree/master/3492-maximum-containers-on-a-ship) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/manan-29072007/leetcode-ques/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
