@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/manan-29072007/leetcode-ques/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1470-shuffle-the-array](https://github.com/manan-29072007/leetcode-ques/tree/master/1470-shuffle-the-array) |
 | [1534-count-good-triplets](https://github.com/manan-29072007/leetcode-ques/tree/master/1534-count-good-triplets) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/manan-29072007/leetcode-ques/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manan-29072007/leetcode-ques/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/manan-29072007/leetcode-ques/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/manan-29072007/leetcode-ques/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/manan-29072007/leetcode-ques/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manan-29072007/leetcode-ques/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3340-check-balanced-string](https://github.com/manan-29072007/leetcode-ques/tree/master/3340-check-balanced-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/manan-29072007/leetcode-ques/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/manan-29072007/leetcode-ques/tree/master/0209-minimum-size-subarray-sum) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/manan-29072007/leetcode-ques/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Sorting
 |  |
 | ------- |
