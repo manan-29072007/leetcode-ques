@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manan-29072007/leetcode-ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/manan-29072007/leetcode-ques/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/manan-29072007/leetcode-ques/tree/master/0209-minimum-size-subarray-sum) |
+| [0905-sort-array-by-parity](https://github.com/manan-29072007/leetcode-ques/tree/master/0905-sort-array-by-parity) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/manan-29072007/leetcode-ques/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/manan-29072007/leetcode-ques/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/manan-29072007/leetcode-ques/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/manan-29072007/leetcode-ques/tree/master/0169-majority-element) |
+| [0905-sort-array-by-parity](https://github.com/manan-29072007/leetcode-ques/tree/master/0905-sort-array-by-parity) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/manan-29072007/leetcode-ques/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/manan-29072007/leetcode-ques/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/manan-29072007/leetcode-ques/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manan-29072007/leetcode-ques/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manan-29072007/leetcode-ques/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manan-29072007/leetcode-ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0905-sort-array-by-parity](https://github.com/manan-29072007/leetcode-ques/tree/master/0905-sort-array-by-parity) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/manan-29072007/leetcode-ques/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/manan-29072007/leetcode-ques/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/manan-29072007/leetcode-ques/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
