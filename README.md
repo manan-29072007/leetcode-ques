@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3285-find-indices-of-stable-mountains](https://github.com/manan-29072007/leetcode-ques/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/manan-29072007/leetcode-ques/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/manan-29072007/leetcode-ques/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3895-count-digit-appearances](https://github.com/manan-29072007/leetcode-ques/tree/master/3895-count-digit-appearances) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/manan-29072007/leetcode-ques/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3492-maximum-containers-on-a-ship](https://github.com/manan-29072007/leetcode-ques/tree/master/3492-maximum-containers-on-a-ship) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/manan-29072007/leetcode-ques/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3895-count-digit-appearances](https://github.com/manan-29072007/leetcode-ques/tree/master/3895-count-digit-appearances) |
 ## Simulation
 |  |
 | ------- |
