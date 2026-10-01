@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/manan-29072007/leetcode-ques/tree/master/0412-fizz-buzz) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/manan-29072007/leetcode-ques/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manan-29072007/leetcode-ques/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3146-permutation-difference-between-two-strings](https://github.com/manan-29072007/leetcode-ques/tree/master/3146-permutation-difference-between-two-strings) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/manan-29072007/leetcode-ques/tree/master/0412-fizz-buzz) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/manan-29072007/leetcode-ques/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manan-29072007/leetcode-ques/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2169-count-operations-to-obtain-zero](https://github.com/manan-29072007/leetcode-ques/tree/master/2169-count-operations-to-obtain-zero) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/manan-29072007/leetcode-ques/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manan-29072007/leetcode-ques/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/manan-29072007/leetcode-ques/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-count-operations-to-obtain-zero](https://github.com/manan-29072007/leetcode-ques/tree/master/2169-count-operations-to-obtain-zero) |
